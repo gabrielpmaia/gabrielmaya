@@ -368,7 +368,9 @@ ul{
     border-radius: 20px;
 
 }
-
+.container-sobre p {
+    font-size: 30px;
+}
 
 @media only screen and (max-width: 600px) {
      body{
@@ -406,7 +408,12 @@ ul{
     }
   
      
-  
+    .container-sobre p {
+        font-size:2em;
+        text-align: center;
+      
+   
+    }
    
 }
 
