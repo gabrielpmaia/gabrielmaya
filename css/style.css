@@ -140,13 +140,9 @@ body
     margin-top: 40px;
 }
 .container-sobre p{ 
-   width: 400px;
-   float: left;
-   font-size: 30px;
-   margin-top: 20px;
-   margin-right: 170px;
-   letter-spacing: 0.8px;
-   text-align: justify;
+ font-size: 10px;
+
+ 
 }
 .container-sobre a{
  display: flex;
@@ -382,11 +378,7 @@ ul{
     .nav-list{
         display: none;
     }
-    .logo{
-         margin-right: 200px;
-        font-size: 2em;
-         
-    }
+   
     .section-header{
         display: flex;
         flex-wrap: wrap;
@@ -412,4 +404,13 @@ ul{
         font-size: 30px;
         max-width: 300px;
     }
+  
+     
+  
+   
+}
+
+
+body{
+    overflow-x: hidden;
 }
